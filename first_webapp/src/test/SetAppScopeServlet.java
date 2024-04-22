@@ -42,5 +42,4 @@ public class SetAppScopeServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		doGet(request, response);
 	}
-
 }
